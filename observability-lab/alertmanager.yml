@@ -6,4 +6,4 @@ receivers:
     - name: webhook_receiver
       webhook_configs:
         - url: 'https://webhook.site/62e5b561-f020-45cb-9d27-d1abeae67be9'
-          send_resolved: false
+          send_resolved: true
